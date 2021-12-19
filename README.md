@@ -12,10 +12,10 @@ The purpose of this analysis is to understand if there was any evidence of acade
 
 ### School Summary
 ![SchoolSummary1](Resources/School_summary1.png)
-![SchoolSummary](Resources/School_summary.png)
 - percentage passing math dropped from 93.2% to 66.9%
 - percentage passing reading dropped from 97.3% to 69.7%
 - overall passing percentage dropped from 90.9% to 65.1%
+![SchoolSummary](Resources/School_summary.png)
 
 ### Performance of Thomas High School
 Thomas High School was no longer included on the list of top five schools.
@@ -27,18 +27,18 @@ Ninth grade math and reading scores were replaced with NaN.
 ![mathScore](Resources/math_score.png)
 
 - Reading 
-![readingScore](Resources/reading_score)
+![readingScore](Resources/reading_score.png)
 
 ### Scores by school spending
-![schoolSpending](Resources/scoreBy_SchoolSpending)
+![schoolSpending](Resources/scoreBy_SchoolSpending.png)
 Schools that spends $551 - $600 appears to have the best overall performance
 
 ### Scores by school size
-![schoolSize](Resources/scoreBy_schoolSize)
+![schoolSize](Resources/scoreBy_schoolSize.png)
 Looking at the school sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. 
 
 ### Scores by school type
-![schoolType](Resources/scoreBy_SchoolType)
+![schoolType](Resources/scoreBy_SchoolType.png)
 Charter schools performed better than district schools.
 
 ## Summary
