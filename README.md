@@ -24,10 +24,10 @@ Thomas High School was no longer included on the list of top five schools.
 Ninth grade math and reading scores were replaced with NaN.
 
 - Math score:
-![mathScore](Resources/math_score.png)
+- ![mathScore](Resources/math_score.png)
 
 - Reading 
-![readingScore](Resources/reading_score.png)
+- ![readingScore](Resources/reading_score.png)
 
 ### Scores by school spending
 ![schoolSpending](Resources/scoreBy_SchoolSpending.png)
